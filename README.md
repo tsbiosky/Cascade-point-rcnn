@@ -1,5 +1,6 @@
 # Cascade-point-rcnn
 a muilti-stage- 3d detector based on PointRCNN (https://github.com/sshaoshuai/PointRCNN) 
+and Cascade-rcnn https://arxiv.org/abs/1712.00726
 
 sh build_and_install.sh
 ## Dataset preparation
